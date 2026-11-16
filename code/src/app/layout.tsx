@@ -57,7 +57,7 @@ const jsonLd = {
   "url": "https://smalltech.in",
   "logo": "https://smalltech.in/logo.png",
   "description": "smallTech builds Zer0: agents that operationalise agentic AI for small businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
-  "sameAs": ["https://github.com/smallTechOrg"],
+  "sameAs": ["https://github.com/smallTechOrg", "https://www.linkedin.com/company/madhyamakist"],
 };
 
 export default function RootLayout({
