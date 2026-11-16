@@ -47,7 +47,7 @@ export const zer0: {
     {
       title: "workshop0",
       blurb: "A workshop assistant for facilitator-led hands-on labs: milestones, a live dashboard of the whole room and a built-in help desk.",
-      url: "https://github.com/smallTechOrg/workshop0",
+      url: "https://workshop0.smalltech.in",
     },
     {
       title: "data0",

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-const BLOG_URL = "https://aiblog.smallTech.in";
+const BLOG_URL = "https://blog0.smalltech.in";
 
 export default function Footer({ className = "" }) {
     const currentYear = new Date().getFullYear();
