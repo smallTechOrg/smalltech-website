@@ -11,8 +11,8 @@ const montserrat = Montserrat({
 
 export const metadata: Metadata = {
   title: "smallTech, AI for Everyone",
-  description: "smallTech builds Zer0: agents that operationalise agentic AI for small businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
-  keywords: ["Zer0", "agentic AI for small business", "AI agents for small business", "AI workflow automation", "AI training", "agentic AI training", "corporate AI training India", "AI training for executives", "multi-agent systems", "Claude Code training", "enterprise AI transformation", "AI adoption roadmap", "smallTech"],
+  description: "smallTech builds Zer0: agents that operationalise agentic AI for businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
+  keywords: ["Zer0", "agentic AI for business", "AI agents for business", "multi-agent OS", "AI workflow automation", "AI training", "agentic AI training", "corporate AI training India", "AI training for executives", "multi-agent systems", "Claude Code training", "enterprise AI transformation", "AI adoption roadmap", "smallTech"],
   robots: "index, follow",
   alternates: {
     canonical: "https://smalltech.in",
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "smallTech, AI for Everyone",
-    description: "smallTech builds Zer0: agents that operationalise agentic AI for small businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
+    description: "smallTech builds Zer0: agents that operationalise agentic AI for businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
     url: "https://smalltech.in",
     siteName: "SmallTech",
     images: [
@@ -45,7 +45,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "smallTech, AI for Everyone",
-    description: "smallTech builds Zer0: agents that operationalise agentic AI for small businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
+    description: "smallTech builds Zer0: agents that operationalise agentic AI for businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
     images: ["https://smalltech.in/logo.png"],
   },
 };
@@ -56,7 +56,7 @@ const jsonLd = {
   "name": "SmallTech",
   "url": "https://smalltech.in",
   "logo": "https://smalltech.in/logo.png",
-  "description": "smallTech builds Zer0: agents that operationalise agentic AI for small businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
+  "description": "smallTech builds Zer0: agents that operationalise agentic AI for businesses, with human approval at every step. Plus applied AI, consulting and practitioner-led AI training. 700+ professionals trained.",
   "sameAs": ["https://github.com/smallTechOrg", "https://www.linkedin.com/company/madhyamakist"],
 };
 

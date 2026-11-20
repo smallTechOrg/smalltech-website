@@ -160,7 +160,7 @@ export const programmes: Programme[] = [
     ],
   },
   {
-    kicker: "Compact · Small business",
+    kicker: "Compact · Business owners",
     title: "AI-Native in a Day",
     format: "One day · on site or remote",
     blurb:
@@ -269,10 +269,10 @@ export const products: Product[] = [
   {
     image: "/robot.svg",
     title: "Zer0",
-    role: "A multi-agent operating system for small businesses",
+    role: "A multi-agent operating system for businesses",
     tag: "Zer0 suite",
     description:
-      "Agents that run a small business's everyday workflows end to end, with a human approval gate wherever it matters and an audit trail for every step.",
+      "Agents that run a business's everyday workflows end to end, with a human approval gate wherever it matters and an audit trail for every step.",
     cta: "Visit Zer0",
     url: "https://zer0.smalltech.in",
     points: [

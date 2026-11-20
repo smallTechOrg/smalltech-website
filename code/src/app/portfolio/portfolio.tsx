@@ -6,7 +6,7 @@ const products = [
   {
     image: "/zero.svg",
     title: "Zer0",
-    subtitle: "AI Agents for Small Businesses",
+    subtitle: "AI Agents for Businesses",
     description: "Embeddable Smart Agent For Your Website. Automate Customer Support, Lead Generation, and Sales with AI.",
     buttonText: "Visit Site",
     url: "https://sales0.smalltech.in",
